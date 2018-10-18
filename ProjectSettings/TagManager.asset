@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Player2
+  - Ground
+  - rightWaypoint
+  - leftWaypoint
+  - Projectile
+  - Knight
+  - nextLevel
+  - playerTracker
+  - Enemy
+  - enemyProjectile
+  - Wall
+  - hpValues
+  - mainMenu
+  - mainMenuControlInfo
+  - main
+  - shield
+  - Cam
+  - shield
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player
+  - Cam
+  - Knight
+  - shield
+  - waypoints
+  - Ninja
+  - Projectile
+  - Waypoint
+  - shield
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3710009129
+    locked: 0
+  - name: Foreground
+    uniqueID: 2790641567
+    locked: 0
+  - name: Level
+    uniqueID: 1264209019
+    locked: 0
+  - name: Player
+    uniqueID: 4181492377
+    locked: 0
+  - name: shield
+    uniqueID: 1741704143
+    locked: 0
